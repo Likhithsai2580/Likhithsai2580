@@ -5,7 +5,7 @@
 Greetings! I'm Likhith Sai, a versatile individual deeply entrenched in the realm of technology and creativity. My journey encompasses a diverse range of roles including YouTuber, pentester, programmer, web developer, and game developer. This multifaceted approach allows me to explore various facets of technology while continually expanding my knowledge and skill set.
 
 ### YouTube
-[![YouTube](https://yt3.googleusercontent.com/e1u3Aa_mxFxzY4AK_RluCjQbXY2k2ipXCp7QJham2bqnQ9Ek900WXkDfEwGUe-K9DymwkMLtdw=s176-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/@hackersareherewhereareyou)  
+![YouTube](https://www.youtube.com/@hackersareherewhereareyou)  
 YouTube serves as my platform for sharing knowledge, experiences, and insights with a global audience. Through engaging videos, tutorials, and discussions, I aim to demystify complex concepts in cybersecurity, programming, web development, and game development, making them accessible to enthusiasts and learners alike.
 
 ### Pentester
