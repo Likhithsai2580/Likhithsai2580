@@ -1,6 +1,6 @@
 # ![Banner](https://raw.githubusercontent.com/Likhithsai2580/Likhithsai2580/main/banner.png)
+
 ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FLuckyMod25)
-![Discord](https://img.shields.io/discord/:1196109886136787044)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC5N_8t5SzEyJrTx1bC66Kpw)
 
 ## About Me
