@@ -30,3 +30,4 @@ Beyond my professional endeavors, I harbor a deep-seated interest in cybersecuri
 
 Feel free to reach out and connect with me—I'm always eager to collaborate, share knowledge, and embark on new adventures in the ever-evolving landscape of technology!
                                                     My [resume](https://github.com/Likhithsai2580/Likhithsai2580/blob/main/Resume.pdf)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Likhithsai2580)](https://github.com/ryo-ma/github-profile-trophy)
