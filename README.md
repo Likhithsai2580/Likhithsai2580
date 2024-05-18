@@ -5,7 +5,6 @@
 Greetings! I'm Likhith Sai, a versatile individual deeply entrenched in the realm of technology and creativity. My journey encompasses a diverse range of roles including YouTuber, pentester, programmer, web developer, and game developer. This multifaceted approach allows me to explore various facets of technology while continually expanding my knowledge and skill set.
 
 ### YouTube
-![YouTube](https://www.youtube.com/@hackersareherewhereareyou)  
 YouTube serves as my platform for sharing knowledge, experiences, and insights with a global audience. Through engaging videos, tutorials, and discussions, I aim to demystify complex concepts in cybersecurity, programming, web development, and game development, making them accessible to enthusiasts and learners alike.
 
 ### Pentester
@@ -24,6 +23,7 @@ Gaming has always been a passion of mine, driving me to explore the intricacies 
 Beyond my professional endeavors, I harbor a deep-seated interest in cybersecurity and digital privacy. I actively engage in research, discussions, and community initiatives aimed at raising awareness and fostering a safer online environment for all. Whether it's advocating for encryption standards or sharing best practices for online security, I'm committed to empowering individuals and organizations to protect their digital assets and privacy rights.
 
 ### Connect with Me
+- [YouTube](https://www.youtube.com/@hackersareherewhereareyou): Let us learn together, Grow together.
 - [Discord](https://discord.gg/2BGD2Cuk34): Join me on Discord for real-time discussions, collaboration opportunities, and community engagement.
 - [Twitter](https://twitter.com/LuckyMod25): Follow me on Twitter for the latest updates, insights, and musings on technology, programming, and cybersecurity.
 - [GitHub](https://github.com/Likhithsai2580): Explore my GitHub repositories for open-source projects, code samples, and collaborative endeavors spanning various domains of technology.
