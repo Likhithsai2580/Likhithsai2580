@@ -29,3 +29,4 @@ Beyond my professional endeavors, I harbor a deep-seated interest in cybersecuri
 - [GitHub](https://github.com/Likhithsai2580): Explore my GitHub repositories for open-source projects, code samples, and collaborative endeavors spanning various domains of technology.
 
 Feel free to reach out and connect with me—I'm always eager to collaborate, share knowledge, and embark on new adventures in the ever-evolving landscape of technology!
+                                                    My [resume](https://github.com/Likhithsai2580/Likhithsai2580/blob/main/Resume.pdf)
