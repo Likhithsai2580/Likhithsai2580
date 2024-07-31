@@ -16,7 +16,7 @@
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
-# [Banner](https://raw.githubusercontent.com/Likhithsai2580/Likhithsai2580/main/banner.png)
+# ![Banner](https://raw.githubusercontent.com/Likhithsai2580/Likhithsai2580/main/banner.png)
 
 ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FLuckyMod25)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC5N_8t5SzEyJrTx1bC66Kpw)
