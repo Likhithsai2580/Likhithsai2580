@@ -1,5 +1,3 @@
-# ![Banner](https://raw.githubusercontent.com/Likhithsai2580/Likhithsai2580/main/banner.png)
-
 <p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p>
 
 <div align="center">
@@ -18,7 +16,7 @@
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
-
+# ![Banner](https://raw.githubusercontent.com/Likhithsai2580/Likhithsai2580/main/banner.png)
 ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FLuckyMod25)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC5N_8t5SzEyJrTx1bC66Kpw)
 
