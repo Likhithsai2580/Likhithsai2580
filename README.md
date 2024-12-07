@@ -53,3 +53,5 @@ Feel free to reach out and connect—I'm always eager to collaborate, share know
 [My Resume](https://github.com/Likhithsai2580/Likhithsai2580/blob/main/Resume.pdf)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Likhithsai2580&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![](https://visitcount.itsvg.in/api?id=Likhithsai2580&label=Profile%20Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in)
