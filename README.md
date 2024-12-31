@@ -50,8 +50,16 @@ Beyond my professional endeavors, I have a deep interest in cybersecurity and di
 
 Feel free to reach out and connect—I'm always eager to collaborate, share knowledge, and embark on new adventures in the ever-evolving landscape of technology!
 
-[My Resume](https://github.com/Likhithsai2580/Likhithsai2580/blob/main/Resume.pdf)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Likhithsai2580&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Likhithsai2580&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Likhithsai2580&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+# 🏆Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=Likhithsai2580&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![](https://visitcount.itsvg.in/api?id=Likhithsai2580&label=Profile%20Views&color=0&icon=1&pretty=true)](https://visitcount.itsvg.in)
+# 👁️ View Count
+![](https://hit.yhype.me/github/profile?account_id=62712260)
