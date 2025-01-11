@@ -1,6 +1,9 @@
 # 💫 About Me:
 
-![Conceptual Representation of a Generative AI Network](https://spectrum.ieee.org/media-library/an-animation-showing-a-conceptual-representation-of-a-generative-ai-network.gif?id=51461227&width=980)
+<div style="text-align: center;">
+    <img src="https://spectrum.ieee.org/media-library/an-animation-showing-a-conceptual-representation-of-a-generative-ai-network.gif?id=51461227&width=980" alt="Conceptual Representation of a Generative AI Network" style="max-width: 100%; height: auto;">
+</div>
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
