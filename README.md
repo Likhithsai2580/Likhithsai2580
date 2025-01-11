@@ -1,5 +1,7 @@
 # 💫 About Me:
 
+![Generative AI Network](https://spectrum.ieee.org/media-library/an-animation-showing-a-conceptual-representation-of-a-generative-ai-network.gif?id=51461227&width=980)
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=On+journey+to+become+a+great+Hacker;we+are+legion;we+dont+forgive;we+dont+forget;expect+us" alt="Typing SVG" />
