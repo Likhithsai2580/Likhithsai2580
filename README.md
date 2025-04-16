@@ -21,7 +21,7 @@
 
 ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FLuckyMod25)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC5N_8t5SzEyJrTx1bC66Kpw)
-![](https://dcbadge.limes.pink/api/server/2BGD2Cuk34)
+# ![](https://dcbadge.limes.pink/api/server/2BGD2Cuk34)
 
 ## About Me
 
